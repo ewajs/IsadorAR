@@ -19,7 +19,7 @@ function init_threeScene(spec) {
 
    // CREATE A CUBE:
    const loader = new THREE.GLTFLoader();
-   loader.load('./glasses1.glb', function (gltf) {
+   loader.load('./GAFASWASHI.gltf', function (gltf) {
      console.log(threeStuffs)
      gltf.scene.position.setY(0.1);
      threeStuffs.faceObject.add(gltf.scene);
