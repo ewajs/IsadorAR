@@ -4,7 +4,7 @@
 If you don't have it already, [Install NodeJS](https://nodejs.org/en/) from it's homepage, choose an LTS version.
 
 ## Run a Dev Server 
-In the terminal, navigate to the folder you wish to serve through the server (in this example, the folder that contains this file, you can change directories in the terminal by doing `cd FolderName`) and then run the command `npx http-server` a server should start running and print it's IP Address and Port. You'll see some output like this:
+In the terminal, navigate to the folder you wish to serve through the server (in this example, the folder that contains this file, you can change directories in the terminal by doing `cd FolderName` or go to folder that contains those files, click right button+shift - Open Power Shell Window) and then run the command `npx http-server` a server should start running and print it's IP Address and Port. You'll see some output like this:
 ```
 ezequielwajs@Ezequiels-MacBook-Pro ModelViewerDemo % cd MovelViewer
 ezequielwajs@Ezequiels-MacBook-Pro ModelViewerDemo % npx http-server
